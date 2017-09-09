@@ -19,7 +19,7 @@ We will be using python 3.6 throughout the course. If you already have a
 version of python 3 installed all the examples we go through will probably 
 work without any errors. If you currently have a version of python 2 installed 
 you may still be fine but errors are more likely and I would encourage you to 
-either upgrade or create a python 3.5 environment specifically for this 
+either upgrade or create a python 3.6 environment specifically for this 
 course. If you have previously used the anaconda installer a new environment 
 can be created with::
 
