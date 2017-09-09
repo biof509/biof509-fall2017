@@ -80,6 +80,6 @@ Files
 
 Please download the notebook below for use during the class.
 
- `Refresher Exercises <../Wk01-Overview.ipynb>`_
+ `Week 1 notebooks <../week1-notebooks.zip>`_
  
 
