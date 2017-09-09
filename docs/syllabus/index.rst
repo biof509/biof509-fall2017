@@ -153,7 +153,7 @@ Course Materials
 ----------------
 
 Course materials are available from 
-`the github repository <https://github.com/biof509/biof509>`_.
+`the github repository <https://github.com/biof509/biof509-fall2017>`_.
 
 
 Schedule
