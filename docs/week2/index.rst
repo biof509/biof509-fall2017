@@ -10,6 +10,14 @@ Files
 
 Please download the notebook below for use during the class.
 
- `Week 2 notebooks <../week2-notebooks.zip>`_
+* `Week 2 notebooks <../week2-notebooks.zip>`_
+* `In class additions to numpy notebook <../Wk02-Numpy-model-package-survey.ipynb>`_
+* `In class additions to quality notebook <../Wk02-Quality.ipynb>`_ 
+
+
+Assignment
+----------
+
+Please upload the Assignment notebook to `okpy <https://okpy.org/faes/biof509/fa17/week2/>`_ by midnight on 28th September.
  
 
