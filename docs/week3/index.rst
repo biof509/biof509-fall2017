@@ -11,7 +11,9 @@ Files
 
 Please download the notebook below for use during the class.
 
-* `Week 3 notebook <../Wk03-Data-retrieval-and-preprocessing.ipynb>`_
+* `Week 3 notebook <../week3-notebooks/Wk03-Data-retrieval-and-preprocessing.ipynb>`_
+
+* `Week 3 assignment <../week3-notebooks/Wk03-Assignment.ipynb>`_
 
 
 Assignment
