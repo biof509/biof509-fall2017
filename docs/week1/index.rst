@@ -83,3 +83,9 @@ Please download the notebook below for use during the class.
  `Week 1 notebooks <../week1-notebooks.zip>`_
  
 
+Solutions
+---------
+
+A set of example solutions and a screencast on their development are now available: :doc:`solutions`
+ 
+
