@@ -19,5 +19,11 @@ Assignment
 ----------
 
 Please upload the Assignment notebook to `okpy <https://okpy.org/faes/biof509/fa17/week2/>`_ by midnight on 28th September.
+
+
+Solutions
+---------
+
+An example solution for the assignments is available `here <../Wk02-Assignment-solution.ipynb>`_.
  
 
