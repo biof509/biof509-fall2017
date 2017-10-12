@@ -15,6 +15,8 @@ Please download the notebook below for use during the class.
 
 * `Week 4 assignment <../week4-notebooks/Wk04-Assignment.ipynb>`_
 
+* `Week 4 solutions <../week4-notebooks/Wk04-Solutions.ipynb>`_
+
 
 Assignment
 ----------

@@ -15,6 +15,7 @@ Please download the notebook below for use during the class.
 
 * `Week 3 assignment <../week3-notebooks/Wk03-Assignment.ipynb>`_
 
+* `Week 3 solutions <../week3-notebooks/Wk03-Solutions.ipynb>`_
 
 Assignment
 ----------
