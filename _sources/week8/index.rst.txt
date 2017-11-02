@@ -12,4 +12,4 @@ Files
 
 Download the file below.
 
-* `Week 8 Machine learning workflow with in class material <../Wk08-machine-learning-workflow.ipynb>`_
+* `Week 8 Machine learning workflow with in class material <../week8-notebooks/Wk08-machine-learning-workflow.ipynb>`_
