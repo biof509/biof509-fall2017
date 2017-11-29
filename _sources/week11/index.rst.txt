@@ -12,7 +12,7 @@ Files
 
 Download the file below and extract the contents:
 
-* `Graphical user interface <../Wk11-notebooks.zip>`_
+* `Graphical user interface <../week11-notebooks.zip>`_
 
 
 
